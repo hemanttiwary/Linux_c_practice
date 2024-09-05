@@ -1,4 +1,4 @@
-// Printing a to z using for loop
+// Printing A to Z using for loop
 
 #include<stdio.h>
 
